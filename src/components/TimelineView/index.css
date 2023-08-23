@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.my-journey-heading {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+}
+.ccbp-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #171f46;
+}
+.chrono-container {
+  width: 800px;
+  height: 600px;
+}
